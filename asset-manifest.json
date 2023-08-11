@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.695338f3.css",
+    "main.js": "/static/js/main.fe9a8077.js",
+    "static/js/787.1874a602.chunk.js": "/static/js/787.1874a602.chunk.js",
+    "static/media/bg-slogan.png": "/static/media/bg-slogan.22348f7ef8684f56f652.png",
+    "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
+    "static/media/Ubuntu-Bold.ttf": "/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
+    "static/media/bg-slogan-mobile.png": "/static/media/bg-slogan-mobile.6dc4a4b54afd8b5328e5.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.695338f3.css.map": "/static/css/main.695338f3.css.map",
+    "main.fe9a8077.js.map": "/static/js/main.fe9a8077.js.map",
+    "787.1874a602.chunk.js.map": "/static/js/787.1874a602.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695338f3.css",
+    "static/js/main.fe9a8077.js"
+  ]
+}
